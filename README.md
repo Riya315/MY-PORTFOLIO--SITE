@@ -25,8 +25,11 @@ This is my first project "PORTFOLIO" built using HTML5,CSS,and deployed vercel.
 ## 📬 Contact
 
 Feel free to connect with me:
+
  **Email: 31bhargava@gmail.com
+ 
  **LinkedIn: https://www.linkedin.com/in/riya-bhargava-b16b53324
+ 
  **GitHub: https://github.com/Riya315
 
                                                                     THANKS FOR VISITING!
