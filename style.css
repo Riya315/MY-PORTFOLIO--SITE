@@ -189,7 +189,81 @@
               padding: 8px;
               
 
-        }
+        }@media screen and (max-width: 768px) {
+  nav {
+    flex-direction: column;
+    height: auto;
+    padding: 10px 0;
+  }
+
+  nav ul {
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 10px;
+  }
+
+  nav ul li {
+    margin: 10px 0;
+  }
+
+  .firstsection {
+    flex-direction: column;
+    margin: 80px 0;
+    text-align: center;
+  }
+
+  .firstsection > div {
+    width: 90%;
+    margin: 10px auto;
+  }
+
+  .leftsection {
+    font-size: 2.5rem;
+    margin-left: 0;
+  }
+
+  .rightsection img {
+    width: 100%;
+    margin-top: 20px;
+  }
+
+  main hr {
+    margin: 40px 20px;
+  }
+
+  .secondsection,
+  .thirdsection,
+  .fourthsection,
+  .fifthsection,
+  .sixthsection {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  .secondsection h1,
+  .thirdsection h1,
+  .fourthsection h1,
+  .fifthsection h1,
+  .sixthsection h1 {
+    font-size: 2.5rem;
+  }
+
+  .secondsection p,
+  .thirdsection p,
+  .fourthsection p,
+  .fifthsection p,
+  .sixthsection p,
+  .sixthsection a,
+  .add {
+    font-size: 1.2rem;
+    padding: 6px;
+  }
+
+  .secondsection .about {
+    width: 90vw;
+    margin: 30px 0;
+  }
+}
         
         
        
